@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}  
+#tarefa {
+    width: 70%;
+    padding: 10px;
+}
+#lista-tarefas {
+    list-style: none;
+}
+#lista-tarefas li {
+    margin: 5px 0;
+    cursor: pointer;
+}  
+.completed {
+    text-decoration: line-through;
+}
